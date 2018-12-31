@@ -173,7 +173,7 @@ async def mute(ctx, member: discord.Member, *args):
 @client.command(pass_context=True)
 @commands.has_role(name="Reine du Purgatoire")
 async def kick(ctx, user: discord.Member):
-    await client.say(":boot: Au revoir {}, tu a été kick".format(user.name.mention))
+    await client.say(":boot: {} a été kick".format(user.name))
     await client.kick(user)
 
 @client.command(pass_context=True)
