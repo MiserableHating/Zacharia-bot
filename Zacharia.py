@@ -14,8 +14,8 @@ logger.addHandler(handler)
 
 # # # Variables # # #
 
-LienInvitation = "https://discordapp.com/oauth2/authorize?client_id=523921184593674250&scope=bot&permissions=2012740695"
-Token = 'NTIzOTIxMTg0NTkzNjc0MjUw.Dvgjpg.t_m3GerZzrlI4fnVQr2JHKo1VtU'
+LienInvitation = "https://discordapp.com/oauth2/authorize?client_id=L'ID DE VOTRE BOT&scope=bot&permissions=2012740695"
+Token = 'Remplir avec votre token'
 ownerid = '130313080545607680'
 owneridint = 130313080545607680
 status = ['by Atae Kurri#6302', 'NSFWing', '.help']

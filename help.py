@@ -5,7 +5,7 @@ class help:
     def __init__(self, client):
         self.client = client
 
-    print("Help load avec succès")
+    print("Cog")
 
 def setup(client):
     client.add_cog(help(client))
