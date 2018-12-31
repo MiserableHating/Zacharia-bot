@@ -19,5 +19,5 @@ Egalement, l'utilisation du token actuel du bot est interdite, merci de modifier
 - .suggest - Proposer un truc (Ne marche sur le serveur "Purgatoire")
 - .priority - Proposer un truc aux admins (Ne marche sur le serveur "Purgatoire")
 - .mute - Mute quelqu'un (Ne marche sur le serveur "Purgatoire") (Ne marche actuellement pas)
-- .kick - Kick quelque'un du serveur (pas encore testé)
+- .kick - Kick quelque'un du serveur
 - .lienInvit - Donner le lien d'invitation pour inviter Zacharia à votre serveur
